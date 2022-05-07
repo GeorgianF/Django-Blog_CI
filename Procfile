@@ -1,1 +1,1 @@
-web: gunicorn PROJ_NAME.wsgi:application
+web: gunicorn django-blog-george-ci.wsgi:application
